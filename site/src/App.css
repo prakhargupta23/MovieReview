@@ -299,7 +299,21 @@ nav ul li a:hover{
 }
 
 
+/* review */
+.review{
+  margin-left: 10%;
+  margin-right: 10%;
+}
 
+.part{
+  display: flex;
+  padding-bottom: 10px;
+}
+
+.t{
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
 
 
 
